@@ -57,6 +57,7 @@ Nossa aplicação RAG foi desenvolvida em Python (arquivo `.ipynb`) utilizando o
 
 ## 📂 Conteúdo do Repositório
 
-* `Atividade_11.ipynb`: Notebook Jupyter contendo todo o código Python da aplicação RAG e a demonstração de execução.
+* `Atividade_11.ipynb`: Notebook Jupyter contendo todo o código Python da aplicação RAG.
 * `Atv11PDF.pdf`: Slides em PDF com a explicação do problema, solução e resultados.
+
 
