@@ -6,10 +6,10 @@ Este repositório contém o código-fonte (em Python/Jupyter Notebook) e a apres
 
 ## 👥 Integrantes do Grupo
 
-* [**NOME DO INTEGRANTE 1**]
-* [**NOME DO INTEGRANTE 2**]
-* [**NOME DO INTEGRANTE 3**]
-* [**NOME DO INTEGRANTE 4**]
+* [**Bruno da Silva**]
+* [**Cauã Barchi**]
+* [**Gustavo Grassini Calabrez**]
+* [**Pedro Henrique Papa**]
 
 ---
 
@@ -57,5 +57,6 @@ Nossa aplicação RAG foi desenvolvida em Python (arquivo `.ipynb`) utilizando o
 
 ## 📂 Conteúdo do Repositório
 
-* `[NOME_DO_ARQUIVO].ipynb`: Notebook Jupyter contendo todo o código Python da aplicação RAG e a demonstração de execução.
-* `apresentacao.pdf`: Slides em PDF com a explicação do problema, solução e resultados.
+* `Atividade_11.ipynb`: Notebook Jupyter contendo todo o código Python da aplicação RAG e a demonstração de execução.
+* `Atv11PDF.pdf`: Slides em PDF com a explicação do problema, solução e resultados.
+
